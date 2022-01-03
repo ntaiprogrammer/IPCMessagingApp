@@ -1,5 +1,5 @@
 # IPCMessagingApp
-Server-Client messaging app in C# demonstrating use of Inter-Process Communication. Features login function, basic password hashing, and a client-side admin account.
+Server-Client messaging app in C# Windows Form demonstrating use of Inter-Process Communication. Features login function, basic password hashing, and a client-side admin account.
 
 Server side can add users, view the list of users, and send messages.
 
