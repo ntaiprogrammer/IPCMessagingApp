@@ -1,0 +1,19 @@
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\obj\Debug\IPC_Server.csprojAssemblyReference.cache
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\obj\Debug\IPC_Server.csproj.GenerateResource.cache
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\obj\Debug\IPC_Server.csproj.CoreCompileInputs.cache
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\bin\Debug\IPC_Server.exe.config
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\bin\Debug\IPC_Server.exe
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\bin\Debug\IPC_Server.pdb
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\obj\Debug\IPC_Server.Properties.Resources.resources
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\obj\Debug\IPC_Server.ServerForm.resources
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\obj\Debug\IPC_Server.exe
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\repos\IPC_Login\obj\Debug\IPC_Server.pdb
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\bin\Debug\IPC_Server.exe.config
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\bin\Debug\IPC_Server.exe
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\bin\Debug\IPC_Server.pdb
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\obj\Debug\IPC_Server.csprojAssemblyReference.cache
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\obj\Debug\IPC_Server.Properties.Resources.resources
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\obj\Debug\IPC_Server.ServerForm.resources
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\obj\Debug\IPC_Server.csproj.GenerateResource.cache
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\obj\Debug\IPC_Server.exe
+C:\Users\ShaftMaster\OneDrive - TAFE\Documents\DIPLOMA\Term 1\Programming III\Assessments\AT2 Portfolio\AT2.4\IPC_Server_Client\IPC_Server\obj\Debug\IPC_Server.pdb
